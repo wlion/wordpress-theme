@@ -1,4 +1,4 @@
-<?
+<?php
 add_action('wp_enqueue_scripts', 'theme_enqueue_scripts');
 function theme_enqueue_scripts(){
 	wp_deregister_script( 'jquery' );

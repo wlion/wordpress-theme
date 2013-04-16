@@ -1,0 +1,16 @@
+{
+	"name": "WhiteLion-Template",
+	"version": "0.0.1",
+	"description": "A Site By White Lion",
+	"author": "White Lion",
+	"devDependencies": {
+		"grunt": "~0.4.1",
+		"grunt-contrib-sass": "~0.2.2",
+		"grunt-contrib-jshint": "~0.1.1",
+		"grunt-regarde": "~0.1.1",
+		"grunt-contrib-livereload": "~0.1.0",
+		"grunt-bower-requirejs": "~0.4.1",
+		"grunt-contrib-requirejs": "~0.4.0",
+		"bower": "~0.8.6"
+	}
+}
